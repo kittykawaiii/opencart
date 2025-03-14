@@ -13,17 +13,17 @@ public class BaseClass {
     public WebDriver driver;
 
     @BeforeClass
-    void setup(){
+    public void setup(){
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 
         driver.get("https://demo.opencart.com/");
         driver.manage().window().maximize();
     }
 
     @AfterClass
-    void tearDown(){
+    public void tearDown(){
         driver.quit();
     }
 
