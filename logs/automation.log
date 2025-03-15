@@ -1,0 +1,27 @@
+17:17:29 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:17:30 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:17:30 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:17:52 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+17:17:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:17:55 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:17:55 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:17:56 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:17:56 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:18:49 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+17:18:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:18:52 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:18:52 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:18:52 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:18:52 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:21:06 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+17:21:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:21:09 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:21:09 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:21:10 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:21:10 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details

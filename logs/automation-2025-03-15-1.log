@@ -1,0 +1,68 @@
+17:07:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:07:17 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:07:17 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:07:18 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:07:18 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:07:19 [main] ERROR testcases.TC001AccountRegistrationTest - Test failed
+17:08:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:08:28 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:08:28 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:08:29 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:08:29 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:08:30 [main] ERROR testcases.TC001AccountRegistrationTest - Test failed
+17:11:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:11:56 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:11:56 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:11:58 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:11:58 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:11:59 [main] ERROR testcases.TC001AccountRegistrationTest - Test failed
+17:12:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:12:41 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:12:42 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:12:42 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:12:42 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:12:44 [main] ERROR testcases.TC001AccountRegistrationTest - Test failed
+17:13:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:13:16 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:13:16 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:13:17 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:13:17 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:13:18 [main] ERROR testcases.TC001AccountRegistrationTest - Test failed
+17:13:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:13:45 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:13:45 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:13:46 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:13:46 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:13:47 [main] ERROR testcases.TC001AccountRegistrationTest - Test failed
+17:14:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:14:10 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:14:10 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:14:10 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:14:10 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:14:12 [main] ERROR testcases.TC001AccountRegistrationTest - Test failed
+17:17:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:17:09 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:17:09 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:17:10 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:17:10 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:17:27 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+17:17:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:17:29 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
