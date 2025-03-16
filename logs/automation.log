@@ -49,3 +49,18 @@
 17:37:51 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
 17:37:52 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
 17:37:52 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+22:48:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:20:38 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+23:20:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+23:21:07 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+23:21:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+23:21:13 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+23:21:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+

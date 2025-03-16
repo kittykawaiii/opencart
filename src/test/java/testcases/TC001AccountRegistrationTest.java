@@ -7,16 +7,20 @@ import pageobjects.HomePage;
 import testbase.BaseClass;
 
 public class TC001AccountRegistrationTest extends BaseClass {
+
     @Test
-    void verifyAccountRegistration(){
-        logger.info("***Starting TC001AccountRegistrationTest***");
+    void verifyAccountRegistration() {
+        logger.info("*** Starting TC001AccountRegistrationTest ***");
+
         try {
+            // Initialize HomePage and perform actions
             HomePage hp = new HomePage(driver);
             hp.clickMyAccount();
-            logger.info("Click on My Account Link");
+            logger.info("Clicked on My Account Link");
             hp.clickRegister();
-            logger.info("Click on Register Link");
+            logger.info("Clicked on Register Link");
 
+            // Initialize AccountRegistrationPage and provide user details
             logger.info("Providing user details");
             AccountRegistrationPage regPage = new AccountRegistrationPage(driver);
             regPage.setFirstName(randomString().toUpperCase());
@@ -29,21 +33,17 @@ public class TC001AccountRegistrationTest extends BaseClass {
             regPage.setPrivacyPolicy();
             regPage.clickContinue();
 
-            logger.info("Validate expected message");
+            logger.info("Validating expected message");
             String confMsg = regPage.getConfirmationMsg();
-            if(confMsg.contains("Your Account Has Been Created!")){
-                Assert.assertTrue(true);
-            }
-            else {
-                logger.error("Test failed");
-                logger.debug("Debug log");
-                Assert.assertTrue(false);
-            }
+            logger.info("Actual confirmation message: " + confMsg);
+
             Assert.assertEquals(confMsg, "Your Account Has Been Created!");
+
+        } catch (Exception e) {
+            logger.error("Test failed due to exception: " + e.getMessage(), e);
+            Assert.fail("Test failed due to exception: " + e.getMessage());
         }
-        catch (Exception e){
-            Assert.fail();
-        }
-        logger.info("***Finished TC001AccountRegistrationTest***");
+
+        logger.info("*** Finished TC001AccountRegistrationTest ***");
     }
 }
