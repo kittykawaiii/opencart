@@ -1,0 +1,66 @@
+17:17:29 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:17:30 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:17:30 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:17:52 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+17:17:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:17:55 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:17:55 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:17:56 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:17:56 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:18:49 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+17:18:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:18:52 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:18:52 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:18:52 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:18:52 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:21:06 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+17:21:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:21:09 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:21:09 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:21:10 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:21:10 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:34:30 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+17:34:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:34:40 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+17:34:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+17:34:57 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/IdeaProjects/OpenCart/src/test/java/testcases/master.xml"
+17:34:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/IdeaProjects/OpenCart/src/test/java/testcases/master.xml
+
+17:35:02 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:35:03 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:35:04 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:35:04 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+17:37:46 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/IdeaProjects/OpenCart/src/test/java/testcases/crossbrowsertesting.xml"
+17:37:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/IdeaProjects/OpenCart/src/test/java/testcases/crossbrowsertesting.xml
+
+17:37:51 [main] INFO  testcases.TC001AccountRegistrationTest - ***Starting TC001AccountRegistrationTest***
+17:37:51 [main] INFO  testcases.TC001AccountRegistrationTest - Click on My Account Link
+17:37:52 [main] INFO  testcases.TC001AccountRegistrationTest - Click on Register Link
+17:37:52 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+22:48:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:20:38 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+23:20:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+23:21:07 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+23:21:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+23:21:13 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+23:21:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+

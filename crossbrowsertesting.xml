@@ -10,7 +10,7 @@
         </classes>
     </test>
 
-    <test name="Edge Test">
+    <!--test name="Edge Test">
         <parameter name="os" value="Windows"/>
         <parameter name="browser" value="edge"/>
         <classes>
@@ -24,6 +24,6 @@
         <classes>
             <class name="testcases.TC001AccountRegistrationTest"/>
         </classes>
-    </test>
+    </test>-->
 
 </suite>

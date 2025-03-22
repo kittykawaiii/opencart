@@ -1,29 +1,29 @@
-10:18:54 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/IdeaProjects/OpenCart/master.xml"
-10:18:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/dieulypham/IdeaProjects/OpenCart/master.xml
+10:18:02 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/IdeaProjects/OpenCart/crossbrowsertesting.xml"
+10:18:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/IdeaProjects/OpenCart/crossbrowsertesting.xml
 
-10:18:57 [main] INFO  testcases.TC001AccountRegistrationTest - *** Starting TC001AccountRegistrationTest ***
-10:18:57 [main] INFO  testcases.TC001AccountRegistrationTest - Clicked on My Account Link
-10:18:58 [main] INFO  testcases.TC001AccountRegistrationTest - Clicked on Register Link
-10:18:58 [main] INFO  testcases.TC001AccountRegistrationTest - Providing user details
-10:19:28 [main] ERROR testcases.TC001AccountRegistrationTest - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
+10:18:07 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *** Starting TC001AccountRegistrationTest ***
+10:18:07 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - Clicked on My Account Link
+10:18:08 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - Clicked on Register Link
+10:18:08 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+10:18:38 [TestNG-tests-1] ERROR testcases.TC001AccountRegistrationTest - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
   (Session info: chrome=134.0.6998.118)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.29.0', revision: '5fc1ec94cb'
 System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.2', java.version: '21.0.6'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [0667552bca1520e0e4311a303cfe423c, findElement {using=xpath, value=//button[normalize-space()='Continue']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: /var/folders/p8/gs2brqcn2nj...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58570}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58570/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 0667552bca1520e0e4311a303cfe423c
+Command: [30f1e0cb07830ebe5c1dabe447503d41, findElement {value=//button[normalize-space()='Continue'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: /var/folders/p8/gs2brqcn2nj...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58529}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58529/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 30f1e0cb07830ebe5c1dabe447503d41
 org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
   (Session info: chrome=134.0.6998.118)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.29.0', revision: '5fc1ec94cb'
 System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.2', java.version: '21.0.6'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [0667552bca1520e0e4311a303cfe423c, findElement {using=xpath, value=//button[normalize-space()='Continue']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: /var/folders/p8/gs2brqcn2nj...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58570}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58570/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 0667552bca1520e0e4311a303cfe423c
+Command: [30f1e0cb07830ebe5c1dabe447503d41, findElement {value=//button[normalize-space()='Continue'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: /var/folders/p8/gs2brqcn2nj...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58529}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58529/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 30f1e0cb07830ebe5c1dabe447503d41
 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
@@ -53,18 +53,14 @@ Session ID: 0667552bca1520e0e4311a303cfe423c
 	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
 	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
 	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
-	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
-	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
-	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
-	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
-	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
-	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
-	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]

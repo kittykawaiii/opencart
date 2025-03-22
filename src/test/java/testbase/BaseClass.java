@@ -42,7 +42,7 @@ public class BaseClass {
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-        driver.get(p.getProperty("appURL1")); //reading url from properties file
+        driver.get(p.getProperty("appURL2")); //reading url from properties file
         driver.manage().window().maximize();
     }
     @AfterClass

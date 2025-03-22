@@ -1,0 +1,121 @@
+10:01:23 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+10:01:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+10:02:16 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+10:02:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+10:02:50 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+10:02:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+10:06:22 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+10:06:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+10:11:00 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+10:11:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+10:13:31 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+10:13:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+10:13:41 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml"
+10:13:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+10:16:45 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/dieulypham/IdeaProjects/OpenCart/crossbrowsertesting.xml"
+10:16:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dieulypham/IdeaProjects/OpenCart/crossbrowsertesting.xml
+
+10:17:01 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *** Starting TC001AccountRegistrationTest ***
+10:17:01 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - Clicked on My Account Link
+10:17:01 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - Clicked on Register Link
+10:17:01 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - Providing user details
+10:17:10 [TestNG-tests-1] ERROR testcases.TC001AccountRegistrationTest - Test failed due to exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.2', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cad4ecb456e979d01ba4ca620f771d2c, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: /var/folders/p8/gs2brqcn2nj...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58478}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58478/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cad4ecb456e979d01ba4ca620f771d2c
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.2', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cad4ecb456e979d01ba4ca620f771d2c, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: /var/folders/p8/gs2brqcn2nj...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58478}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58478/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cad4ecb456e979d01ba4ca620f771d2c
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.29.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy28.click(Unknown Source) ~[?:?]
+	at pageobjects.AccountRegistrationPage.clickContinue(AccountRegistrationPage.java:42) ~[test-classes/:?]
+	at testcases.TC001AccountRegistrationTest.verifyAccountRegistration(TC001AccountRegistrationTest.java:34) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.io.UncheckedIOException: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.29.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.29.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.29.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.29.0.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	... 5 more
+Caused by: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:966) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.29.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.29.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.29.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.29.0.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	... 5 more
+Caused by: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at java.net.http/jdk.internal.net.http.common.Utils.wrapWithExtraDetail(Utils.java:388) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.Http1Response$HeadersReader.onReadError(Http1Response.java:590) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.Http1AsyncReceiver.checkForErrors(Http1AsyncReceiver.java:302) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.Http1AsyncReceiver.flush(Http1AsyncReceiver.java:268) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:182) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207) ~[java.net.http:?]
+	... 3 more
+Caused by: java.io.EOFException: EOF reached while reading
+	at java.net.http/jdk.internal.net.http.Http1AsyncReceiver$Http1TubeSubscriber.onComplete(Http1AsyncReceiver.java:601) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadSubscription.signalCompletion(SocketTube.java:648) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:853) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1469) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1414) ~[java.net.http:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1414) ~[java.net.http:?]
