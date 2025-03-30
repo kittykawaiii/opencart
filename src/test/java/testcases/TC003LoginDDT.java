@@ -7,12 +7,12 @@ import pageobjects.HomePage;
 import pageobjects.LoginPage;
 import pageobjects.MyAccount;
 import testbase.BaseClass;
-import utilities.DataProvider;
+import utilities.DataProviders;
 
 @Slf4j
 public class TC003LoginDDT extends BaseClass {
 
-    @Test(dataProvider = "LoginData",dataProviderClass = DataProvider.class)
+    @Test(dataProvider = "LoginData",dataProviderClass = DataProviders.class)
     public void verifyLoginDDT(String email, String pwd, String exp) {
        logger.info("***Starting TC003 Login DDT");
         try {
